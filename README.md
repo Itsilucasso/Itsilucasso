@@ -1,4 +1,4 @@
-# Oi. Eu sou o Lucas! 🙇🏻‍♂️
+![Oi. Eu sou o Lucas](oi.gif)
 # Hi, There. It's Lucas here! 🙇🏻‍♂️
 
 <div>
