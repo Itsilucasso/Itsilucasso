@@ -1,16 +1,16 @@
-## Hi there 👋
+# Oi. Eu sou o Lucas! 🙇🏻‍♂️
+# Hi, There. It's Lucas here! 🙇🏻‍♂️
 
-<!--
-**Itsilucasso/Itsilucasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 ***Gosto de pensar em não ter o que os intergalácticos chamariam de uma mente muito planetária*** - *Rick Sanchez* 
 
-Here are some ideas to get you started:
+🧠 ***I like to think that i don't have what the intergalactics would call a very planet-bound mind*** - *Rick Sanchez*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑🏻‍💼 Atualmente, ainda trabalho fora do mercado de TI pois estou apenas estudando;
+- 🧑🏻‍💼 Currently working as administrative because i am still learning I.T;
+- 🌱 Estou no processo de aprendizagem para me tornar desenvolvedor FullStack;
+- 🌱 I'm in the process of becoming a FullStack developer;
+- 🪴 Me encontro no estágio Front-end do processo (me divertindo muito 🤭);
+- 🪴 I'm currently in the Front-end stage (having lots of fun discovering my identity on this journey 🤭);
+  <div>
+    ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsilucasso&show_icons=true&theme=transparent&rank_icon=percentile)
+  </div>
