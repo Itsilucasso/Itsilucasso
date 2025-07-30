@@ -1,5 +1,5 @@
 <p align=center>
-<img src=".gif" alt="Oi. Eu sou o Lucas!">
+<img src="oi.gif" alt="Oi. Eu sou o Lucas!">
   
 # Hi, There. It's Lucas here! 🙇🏻‍♂️
 </p>
