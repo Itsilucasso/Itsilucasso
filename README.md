@@ -8,7 +8,7 @@
   
 🧠 ***I like to think that i don't have what the intergalactics would call a very planet-bound mind*** - *Rick Sanchez*
 
-🧑🏻‍💼 Atualmente, ainda trabalho fora do mercado de TI pois estou apenas estudando;
+🧑🏻‍💼 Atualmente, ainda trabalho fora do mercado de TI pois estou estudando;
 
 🧑🏻‍💼 Currently working as administrative because i am still learning I.T;
 
