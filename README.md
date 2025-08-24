@@ -18,7 +18,7 @@
 
 🪴 Me encontro no estágio Front-end do processo (me divertindo muito 🤭).
 
-🪴 I'm currently in the Front-end stage (having lots of fun discovering my identity on this journey 🤭).
+🪴 I'm currently in the Front-end stage (having lots of fun 🤭).
 ##
 </div>
 
