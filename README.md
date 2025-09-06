@@ -6,7 +6,7 @@
 
 <div>
   
-🧠 ***I like to think that i don't have what the intergalactics would call a very planet-bound mind*** - *Rick Sanchez*
+🧠 ***I like to think that i don't have what the intergalactics would call a very planet-bound mind*** - *Rick*
 
 🧑🏻‍💼 Atualmente, ainda trabalho fora do mercado de TI pois estou estudando;
 
