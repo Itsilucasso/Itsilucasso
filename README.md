@@ -16,9 +16,9 @@
 
 🌱 I'm in the process of becoming a FullStack developer;
 
-🪴 Me encontro no estágio Front-end do processo (me divertindo muito 🤭).
+🪴 Me encontro no estágio Front-end do processo.
 
-🪴 I'm currently in the Front-end stage (having lots of fun 🤭).
+🪴 I'm currently in the Front-end stage.
 ##
 </div>
 
