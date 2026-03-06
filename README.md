@@ -8,17 +8,12 @@
   
 🧠 ***I like to think that i don't have what the intergalactics would call a very planet-bound mind*** - *Rick*
 
-🧑🏻‍💼 Atualmente, ainda trabalho fora do mercado de TI pois estou estudando;
+😊 Não hesite em deixar uma mensagem. 
 
-🧑🏻‍💼 Currently working as administrative because i am still learning I.T;
+😊 Feel free to send a message.
 
-🌱 Estou no processo de aprendizagem para me tornar desenvolvedor FullStack;
+📩 contatoilucasso@gmail.com
 
-🌱 I'm in the process of becoming a FullStack developer;
-
-🪴 Me encontro no estágio Front-end do processo.
-
-🪴 I'm currently in the Front-end stage.
 ##
 </div>
 
