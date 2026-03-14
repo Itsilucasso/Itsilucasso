@@ -19,14 +19,14 @@
 </div>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Itslucasso&show_icons=true&theme=react&rank_icon=percentile">
-    <img alt="Lucas's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Itslucasso&show_icons=true&theme=react&rank_icon=percentile" />
+  <a href="https://github-readme-stats.vercel.app/api?username=Itsilucasso&show_icons=true&theme=react&rank_icon=percentile">
+    <img alt="Lucas's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Itsilucasso&show_icons=true&theme=react&rank_icon=percentile" />
   </a>
   </p>
   
   <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Itslucasso&layout=compact&theme=react">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itslucasso&layout=compact&theme=react" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsilucasso&layout=compact&theme=react">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsilucasso&layout=compact&theme=react" />
   </a>
 </p>
 
