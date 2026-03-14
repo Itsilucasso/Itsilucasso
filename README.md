@@ -4,6 +4,7 @@
 # Hi, There. It's Lucas here! 🙇🏻‍♂️
 </p>
 
+**Font-end dev.**
 <div>
   
 🧠 ***I like to think that i don't have what the intergalactics would call a very planet-bound mind*** - *Rick*
